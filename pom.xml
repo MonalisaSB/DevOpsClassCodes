@@ -59,13 +59,6 @@
             </snapshots>
         </pluginRepository>
     </pluginRepositories>
-<pluginRepositories>
-   <pluginRepository> 
-    <id>maven2</id> 
-    <url>https://repo.maven.apache.org/maven2/</url> 
-  </pluginRepository> 
-</pluginRepositories>
-
     <dependencies>
         <dependency>
             <groupId>com.vaadin</groupId>
